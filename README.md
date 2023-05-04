@@ -1,11 +1,6 @@
-# Vue Email Editor
+# Email Editor With Vue
 
-The excellent drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as a [Vue](https://vuejs.org/) _wrapper component_. This is the most powerful and developer friendly visual email builder for your app.
-
-|                                                         Video Overview                                                          |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| [![Vue Email Editor](https://unroll-assets.s3.amazonaws.com/unlayervideotour.png)](https://www.youtube.com/watch?v=MIWhX-NF3j8) |
-|                                      _Watch video overview: https://youtu.be/MIWhX-NF3j8_                                       |
+The excellent drag-n-drop email editor. This is the most powerful and developer friendly visual email builder for your app.
 
 ## Live Demo
 
